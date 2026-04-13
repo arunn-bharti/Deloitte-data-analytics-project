@@ -16,5 +16,3 @@ This project is based on a Deloitte Data Analytics simulation. It includes analy
 - dashboard.png
 - equality_analysis.xlsx
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
